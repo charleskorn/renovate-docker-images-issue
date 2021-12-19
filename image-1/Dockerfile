@@ -1,1 +1,1 @@
-FROM does-not-exist:latest
+FROM batect/this-image-does-not-exist:1.0
